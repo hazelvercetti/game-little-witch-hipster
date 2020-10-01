@@ -22,7 +22,7 @@ Segue abaixo uma lista com as principais técnologias utilizados no desenvolvime
 ### ⚛️ Frameworks
 - [x] [p5.js](https://p5js.org/)
 
-# :computer: Imagens da Pagina Web
+# :computer: Imagens da Pagina Web.
 
 <p align="center">
 </p>
